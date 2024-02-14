@@ -1,2 +1,2 @@
-django
+django==4.0.1
 channels==3.0.5
