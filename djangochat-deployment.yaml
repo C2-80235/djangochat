@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: dchatcon
-        image: dchatimg:latest  # Replace with the name of your Docker image
+        image: shnk/dchatimg:latest  # Replace with the name of your Docker image
         ports:
         - containerPort: 8000
         # Add any environment variables or volume mounts if needed

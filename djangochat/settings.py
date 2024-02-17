@@ -31,7 +31,7 @@ ALLOWED_HOSTS = []
 LOGOUT_REDIRECT_URL = '/'
 LOGIN_REDIRECT_URL = '/rooms/'
 LOGIN_URL = '/login/'
-ALLOWED_HOSTS = ['3.110.163.232']
+ALLOWED_HOSTS = ['65.0.20.71']
 
 
 # Application definition
